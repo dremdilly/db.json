@@ -256,47 +256,5 @@
     "email": "Carmen_Keeling@caroline.name",
     "body": "voluptate iusto quis nobis reprehenderit ipsum amet nulla\nquia quas dolores velit et non\naut quia necessitatibus\nnostrum quaerat nulla et accusamus nisi facilis"
   }
-],
-  "photos": [
-  {
-    "photoId": 1,
-    "content": "photocontent"
-  },
-{
-    "photoId": 2,
-    "content": "photocontent"
-  },
-{
-    "photoId": 3,
-    "content": "photocontent"
-  },
-{
-    "photoId": 4,
-    "content": "photocontent"
-  },
-{
-    "photoId": 5,
-    "content": "photocontent"
-  },
-{
-    "photoId": 6,
-    "content": "photocontent"
-  },
-{
-    "photoId": 7,
-    "content": "photocontent"
-  },
-{
-    "photoId": 8,
-    "content": "photocontent"
-  },
-{
-    "photoId": 9,
-    "content": "photocontent"
-  },
-{
-    "photoId": 10,
-    "content": "photocontent"
-  }
-  ]
+]
 }
