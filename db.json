@@ -205,58 +205,6 @@
     "body": "voluptate iusto quis nobis reprehenderit ipsum amet nulla\nquia quas dolores velit et non\naut quia necessitatibus\nnostrum quaerat nulla et accusamus nisi facilis"
   }
 ],
-  "albums" : [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "quidem molestiae enim"
-  },
-  {
-    "userId": 2,
-    "id": 2,
-    "title": "sunt qui excepturi placeat culpa"
-  },
-  {
-    "userId": 3,
-    "id": 3,
-    "title": "omnis laborum odio"
-  },
-  {
-    "userId": 4,
-    "id": 4,
-    "title": "non esse culpa molestiae omnis sed optio"
-  },
-  {
-    "userId": 5,
-    "id": 5,
-    "title": "eaque aut omnis a"
-  },
-  {
-    "userId": 6,
-    "id": 6,
-    "title": "natus impedit quibusdam illo est"
-  },
-  {
-    "userId": 7,
-    "id": 7,
-    "title": "quibusdam autem aliquid et et quia"
-  },
-  {
-    "userId": 8,
-    "id": 8,
-    "title": "qui fuga est a eum"
-  },
-  {
-    "userId": 9,
-    "id": 9,
-    "title": "saepe unde necessitatibus rem"
-  },
-  {
-    "userId": 10,
-    "id": 10,
-    "title": "distinctio laborum qui"
-  }
-],
  "cars": [{
         "manufacturer": "Porsche",
         "model": "911",
