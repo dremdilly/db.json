@@ -75,72 +75,52 @@
    {
         "manufacturer": "Porsche",
         "model": "911",
-        "price": 135000,
-        "wiki": "http://en.wikipedia.org/wiki/Porsche_997",
-        "img": "2004_Porsche_911_Carrera_type_997.jpg"
+        "price": 135000
     },
     {
         "manufacturer": "Nissan",
         "model": "GT-R",
-        "price": 80000,
-        "wiki":"http://en.wikipedia.org/wiki/Nissan_Gt-r",
-        "img": "250px-Nissan_GT-R.jpg"
+        "price": 80000
     },
     {
         "manufacturer": "BMW",
         "model": "M3",
-        "price": 60500,
-        "wiki":"http://en.wikipedia.org/wiki/Bmw_m3",
-        "img": "250px-BMW_M3_E92.jpg"
+        "price": 60500
     },
     {
         "manufacturer": "Audi",
         "model": "S5",
-        "price": 53000,
-        "wiki":"http://en.wikipedia.org/wiki/Audi_S5#Audi_S5",
-        "img": "250px-Audi_S5.jpg"
+        "price": 53000
     },
     {
         "manufacturer": "Audi",
         "model": "TT",
-        "price": 40000,
-        "wiki":"http://en.wikipedia.org/wiki/Audi_TT",
-        "img": "250px-2007_Audi_TT_Coupe.jpg"
+        "price": 40000
     },
    {
         "manufacturer": "Porsche",
         "model": "897",
-        "price": 98000,
-        "wiki": "http://en.wikipedia.org/wiki/Porsche_997",
-        "img": "2004_Porsche_911_Carrera_type_997.jpg"
+        "price": 98000
     },
     {
         "manufacturer": "Nissan",
         "model": "Furie",
-        "price": 67000,
-        "wiki":"http://en.wikipedia.org/wiki/Nissan_Gt-r",
-        "img": "250px-Nissan_GT-R.jpg"
+        "price": 67000
     },
     {
         "manufacturer": "BMW",
         "model": "M1",
-        "price": 40500,
-        "wiki":"http://en.wikipedia.org/wiki/Bmw_m3",
-        "img": "250px-BMW_M3_E92.jpg"
+        "price": 40500
     },
     {
         "manufacturer": "Audi",
         "model": "S2",
-        "price": 43000,
-        "wiki":"http://en.wikipedia.org/wiki/Audi_S5#Audi_S5",
-        "img": "250px-Audi_S5.jpg"
+        "price": 43000
     },
     {
         "manufacturer": "Audi",
         "model": "TT2",
-        "price": 70000,
-        "wiki":"http://en.wikipedia.org/wiki/Audi_TT",
-        "img": "250px-2007_Audi_TT_Coupe.jpg"
+        "price": 70000
     }
   ],
    "posts": [
