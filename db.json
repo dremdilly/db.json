@@ -65,7 +65,7 @@
   },
   {
     "id": 10,
-    "name": "Clementina QWuBuque",
+    "name": "Clementina DuBuque",
     "username": "Moriah.Stanton",
     "password": "1234@Bcd",    
     "email": "Rey.Padberg@karina.biz"
@@ -75,52 +75,72 @@
    {
         "manufacturer": "Porsche",
         "model": "911",
-        "price": 135000
+        "price": 135000,
+        "wiki": "http://en.wikipedia.org/wiki/Porsche_997",
+        "img": "2004_Porsche_911_Carrera_type_997.jpg"
     },
     {
         "manufacturer": "Nissan",
         "model": "GT-R",
-        "price": 80000
+        "price": 80000,
+        "wiki":"http://en.wikipedia.org/wiki/Nissan_Gt-r",
+        "img": "250px-Nissan_GT-R.jpg"
     },
     {
         "manufacturer": "BMW",
         "model": "M3",
-        "price": 60500
+        "price": 60500,
+        "wiki":"http://en.wikipedia.org/wiki/Bmw_m3",
+        "img": "250px-BMW_M3_E92.jpg"
     },
     {
         "manufacturer": "Audi",
         "model": "S5",
-        "price": 53000
+        "price": 53000,
+        "wiki":"http://en.wikipedia.org/wiki/Audi_S5#Audi_S5",
+        "img": "250px-Audi_S5.jpg"
     },
     {
         "manufacturer": "Audi",
         "model": "TT",
-        "price": 40000
+        "price": 40000,
+        "wiki":"http://en.wikipedia.org/wiki/Audi_TT",
+        "img": "250px-2007_Audi_TT_Coupe.jpg"
     },
    {
         "manufacturer": "Porsche",
         "model": "897",
-        "price": 98000
+        "price": 98000,
+        "wiki": "http://en.wikipedia.org/wiki/Porsche_997",
+        "img": "2004_Porsche_911_Carrera_type_997.jpg"
     },
     {
         "manufacturer": "Nissan",
         "model": "Furie",
-        "price": 67000
+        "price": 67000,
+        "wiki":"http://en.wikipedia.org/wiki/Nissan_Gt-r",
+        "img": "250px-Nissan_GT-R.jpg"
     },
     {
         "manufacturer": "BMW",
         "model": "M1",
-        "price": 40500
+        "price": 40500,
+        "wiki":"http://en.wikipedia.org/wiki/Bmw_m3",
+        "img": "250px-BMW_M3_E92.jpg"
     },
     {
         "manufacturer": "Audi",
         "model": "S2",
-        "price": 43000
+        "price": 43000,
+        "wiki":"http://en.wikipedia.org/wiki/Audi_S5#Audi_S5",
+        "img": "250px-Audi_S5.jpg"
     },
     {
         "manufacturer": "Audi",
         "model": "TT2",
-        "price": 70000
+        "price": 70000,
+        "wiki":"http://en.wikipedia.org/wiki/Audi_TT",
+        "img": "250px-2007_Audi_TT_Coupe.jpg"
     }
   ],
    "posts": [
